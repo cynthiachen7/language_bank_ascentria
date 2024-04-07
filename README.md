@@ -1,2 +1,2 @@
-# language_bank_ascentria
+# Language Bank
 CS+Social Good Impactathon (April 5-7)
